@@ -24,7 +24,7 @@ public class Main {
 //<<<<<<< HEAD
 		System.out.println("esto es la segunda prueba master"); 
 		System.out.println("esto es la segunda prueba esto es de master");
-		
+		System.out.println("esto es la segunda prueba esto es de master master master master");
 //=======
 		System.out.println("esto es una prueba en proyecto de yohanna"); 
 //>>>>>>> devYohanna
